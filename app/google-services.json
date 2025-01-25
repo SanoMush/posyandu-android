@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "25165102549",
+    "project_id": "posyandu-988f5",
+    "storage_bucket": "posyandu-988f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25165102549:android:cfbded5eb549f6ba1c115c",
+        "android_client_info": {
+          "package_name": "com.sanomush.posyandu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25165102549-4v2uc47qpddq8cjblprejk9ju2eelca0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanomush.posyandu",
+            "certificate_hash": "2b45a6ac4085e31cc6fd9eb955fae7d0a1e7a3d5"
+          }
+        },
+        {
+          "client_id": "25165102549-t79l3lphmiuluektm0rboocouhds68ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuTeciEOs3Cxk1kOQ-ETBHf9lBhKgz-FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25165102549-t79l3lphmiuluektm0rboocouhds68ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
